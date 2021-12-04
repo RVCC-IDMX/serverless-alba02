@@ -10,4 +10,4 @@ YouTube: [Here is David's Youtube tutorial for this serverless website](https://
 
 ### Here is what the site looks like
 
-![alt text](screenshot.png)
+![alt text](https://raw.githubusercontent.com/RVCC-IDMX/serverless-alba02/2f8e28043c1e3134b79f40e9781e489bd5efaadd/Screenshot.png)
